@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e0bdb1dadf75e3840af41856ddcdf88d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoreText: {instanceID: 0}
+  - lifeText: {instanceID: 0}
+  - threeLife: {fileID: 7682441981531899529, guid: e8e1206d1b448ba469c3d97e6b7f8998,
+      type: 3}
+  - twoLife: {fileID: 54216323466748306, guid: 89480267ddbee174fab9c4bfa92ab0c6, type: 3}
+  - oneLife: {fileID: 54979057357866250, guid: 7523107abb786e840a8ff30614864bc4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
