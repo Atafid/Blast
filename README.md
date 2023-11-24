@@ -1,4 +1,4 @@
-# Unity Mobile Game : Blast (C#, 2020)
+# Unity Mobile Game : Blast (2020)
 
 ![Language](https://img.shields.io/badge/Language-C%23-yellow)
 ![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
