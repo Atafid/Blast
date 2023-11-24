@@ -1,6 +1,6 @@
 # Unity Mobile Game : Blast (C#, 2020)
 
-![Language](https://img.shields.io/badge/Language-C#-yellow)
+![Language](https://img.shields.io/badge/Language-C%23-yellow)
 ![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 
 ⚠️ This project is not finished yet ⚠️
@@ -38,11 +38,11 @@ To open the project, use Unity version 2018.4.14f1 or later. An APK is also avai
 ### Screenshots
 
 <p align="center">
-	<img src="ressources/screenshots/game.PNG" width="400">
+	<img src="resources/screenshots/game.PNG" width="400">
 </p>
 
 <p align="center">
-	<img src="ressources/screenshots/game2.PNG" width="400">
+	<img src="resources/screenshots/game2.PNG" width="400">
 </p>
 
 ### Credits
